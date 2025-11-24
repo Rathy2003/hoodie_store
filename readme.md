@@ -1,6 +1,10 @@
 # Hoodie Store
 ## Hoodie Store is a e-commerce website that sells hoodies.
 
+## Project Link
+- Store: https://hoddiestore.free.nf/
+- Admin dashboard: https://hoddiestore.free.nf/dashboard
+
 ## Technologies
 - PHP
 - MySQL
